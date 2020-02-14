@@ -1,0 +1,8 @@
+{
+  "eslint.enable": true,
+  "editor.autoIndent": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": false
+}
